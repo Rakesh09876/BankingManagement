@@ -1,4 +1,4 @@
-package com.test.BankProject;
+
 import java.util.Scanner;
 
 class Bank {
